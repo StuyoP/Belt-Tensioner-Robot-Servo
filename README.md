@@ -54,7 +54,7 @@ Supercapacitors charge for less than minute, initial current is 4A at about 5 se
 
 Servo current draw:
 
-Full lock - 4A (measured 3.8-42)
+Full lock - 4A (measured 3.8-42)/n
 Normal lock (without hurting shoulders) - about 2-2.2A
 
 
