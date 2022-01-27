@@ -14,15 +14,15 @@ Original SimHub Profile: https://blekenbleu.github.io/Arduino/proxy_G.shsds.txt
 Youtube demo of my belt tensioner: https://www.youtube.com/watch?v=9a0rFGwfBp4
 
 BOM:
-Arduino Nano
-2x Twin Arm servo, 180 degrees, 60KG, 8.4V; full metal brackets - DSServo RDS5160 SSG 60kg 8.4v High Voltage Torque Stainless Steel Gear Digital Servo For RC Model Robot Arm Arduino DIY Industry (from Aliexpress)
-XL4005 5A 75W XL4015 DC-DC XL6009 Power Supply Module Boost Buck DC to DC Adjustable Step Up Step Down Converter Module
+- Arduino Nano
+- 2x Twin Arm servo, 180 degrees, 60KG, 8.4V; full metal brackets - DSServo RDS5160 SSG 60kg 8.4v High Voltage Torque Stainless Steel Gear Digital Servo For RC Model Robot Arm Arduino DIY Industry (from Aliexpress)
+- XL4005 5A 75W XL4015 DC-DC XL6009 Power Supply Module Boost Buck DC to DC Adjustable Step Up Step Down Converter Module
 
 Optional:
-2022 New 6pcs 16V 16.6F Super Capacitor High Current 2.7V 100F Double Row Ultracapacitor
-XT60 connectors
-Volt indicators
-Automotive fuse
+- 2022 New 6pcs 16V 16.6F Super Capacitor High Current 2.7V 100F Double Row Ultracapacitor
+- XT60 connectors
+- Volt indicators
+- Automotive fuse
 
 
 Description:
@@ -54,7 +54,7 @@ Supercapacitors charge for less than minute, initial current is 4A at about 5 se
 
 Servo current draw:
 
-Full lock - 4A (measured 3.8-42)/n
+Full lock - 4A (measured 3.8-42)<br>
 Normal lock (without hurting shoulders) - about 2-2.2A
 
 
