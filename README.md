@@ -21,8 +21,8 @@ BOM:
 Optional:
 - 2022 New 6pcs 16V 16.6F Super Capacitor High Current 2.7V 100F Double Row Ultracapacitor
 - XT60 connectors
-- Volt indicators
-- Automotive fuse
+- 0.28 Inch 2.5V-40V Mini Digital Voltmeter
+- Automotive fuse + socket (10A)
 
 
 Description:
