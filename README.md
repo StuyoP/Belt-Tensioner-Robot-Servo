@@ -12,6 +12,8 @@ Original Arduino Blue Pill scetch: https://github.com/blekenbleu/blekenbleu.gith
 Original SimHub Profile: https://blekenbleu.github.io/Arduino/proxy_G.shsds.txt
 
 Youtube demo of my belt tensioner: https://www.youtube.com/watch?v=9a0rFGwfBp4
+Roller STLs here: https://www.thingiverse.com/thing:5490048
+Supercaps PSU and Arduino box here: https://www.thingiverse.com/thing:5490068
 
 BOM:
 - Arduino Nano
