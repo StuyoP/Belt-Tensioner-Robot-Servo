@@ -70,3 +70,9 @@ Software configuration:
 
 Sketch loaded to Arduino Nano, connected as Custom Serial Device in SimHub.
 Initial servo position, max tension - set in SimHub Profile. 
+
+Update 09.12.2022:
+
+Added latest SimHub profile featuring Game Check options. This was needed because WRC 10 has different implementation on Acclerations so tensioner was working backwards. Now it switches values automatically.
+
+Added Message Belt text file which features only the Game Acceleration Message code for ease of use.
